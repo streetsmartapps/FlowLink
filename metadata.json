@@ -1,0 +1,5 @@
+{
+  "name": "FlowLink",
+  "description": "FlowLink is a seamless AI workflow integrator that connects your AI chat to the apps you use every day. Instead of just generating text, FlowLink understands your intent and offers one-click actions to send that text to Gmail, Google Docs, and more. It's the missing link between AI conversation and real-world action.",
+  "requestFramePermissions": []
+}
